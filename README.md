@@ -125,6 +125,7 @@ Exploring the invisible layers between hardware and software.
 언제든 Issue 또는 PR로 참여해 주세요.
 
 **Team**
+
 [정지효](https://github.com/jihyo0331)
 [김주은](https://github.com/KimJudol)
 [문채영](https://github.com/mcy325)
