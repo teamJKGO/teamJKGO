@@ -122,7 +122,6 @@ feel free to join us through Issues or Pull Requests.
 
 **Team**
 
-**Team**
 [Jeong Jihyo](https://github.com/jihyo0331)
 [Kim Jueun](https://github.com/KimJudol)
 [Moon Chaeyoung](https://github.com/mcy325)
