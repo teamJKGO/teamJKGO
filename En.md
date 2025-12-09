@@ -120,6 +120,15 @@ We welcome collaboration in the following fields:
 If you want to explore the invisible depths of system internals,  
 feel free to join us through Issues or Pull Requests.
 
+**Team**
+
+**Team**
+[Jeong Jihyo](https://github.com/jihyo0331)
+[Kim Jueun](https://github.com/KimJudol)
+[Moon Chaeyoung](https://github.com/mcy325)
+[Park Wonkyeong](https://github.com/Pwk-t)
+[Yang Subin](https://github.com/irenesubin)
+
 **Journey of Kernel — Let’s GO deeper.**
 
 **Official Website:** https://jkgo.kr
