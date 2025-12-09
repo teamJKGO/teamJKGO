@@ -124,6 +124,13 @@ Exploring the invisible layers between hardware and software.
 보이지 않는 시스템 내부를 탐험하는 여정에 함께하고 싶다면  
 언제든 Issue 또는 PR로 참여해 주세요.
 
+**Team**
+[정지효](https://github.com/jihyo0331)
+[김주은](https://github.com/KimJudol)
+[문채영](https://github.com/mcy325)
+[박원경](https://github.com/Pwk-t)
+[양수빈](https://github.com/irenesubin)
+
 **Journey of Kernel — Let’s GO deeper.**
 
 **Official Website:** https://jkgo.kr
